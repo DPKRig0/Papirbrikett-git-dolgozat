@@ -21,8 +21,8 @@ h1, h2{
   background-color: #EBEBEB;
   padding: 10px 35px;
   font-size: 75%;
-  margin-top: 1px #3f4f5f;
-  margin-bottom: 1px #3f4f5f;
+  border-top: 1px solid #3f4f5f;
+  border-bottom: 1px solid #3f4f5f;
 }
 
 #brikettek{
